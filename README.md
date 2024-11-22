@@ -12,7 +12,7 @@ IF YOU DO NOT ACCEPT THE TERMS OF THIS LICENSE AGREEMENT, YOU ARE PROHIBITED FRO
 
 **"Data Product"** shall mean any of the documents, description, explanations, presentations, media types, all schedules, appendixes and related documentation, software in object or source code, including Updates provided on this Platform by Licensor for Your Use.
 
-**"Derivative Works"** means any modification, change, adaptations, contributions, enhancements, customization, modifications, inventions, developments, improvements of the Date Product by you and not developed by Licensor or integrated into the Date Product by Licensor.
+**"Derivative Works"** means any modification, change, adaptations, contributions, enhancements, customization, modifications, inventions, developments, improvements of the Data Product by you and not developed by Licensor or integrated into the Data Product by Licensor.
 
 **"Intellectual Property Rights"** means any intellectual property and proprietary rights, including , but not limited to, copyrights, moral rights, works of authorship, trade and service marks, trade names, rights in logos and get-up, inventions and discoveries, and Know-How, registered designs, design rights, patents, utility models, all rights of whatsoever nature in computer software and data, source code, database rights all intangible rights and privileges of nature similar or allied to any of the foregoing, in every case in any part of the world and whether or not registered; and including all granted registrations and all applications for registration, all renewals, reversions or extensions, the right to sue for damages for past infringement and all forms of protection of a similar nature which may subsist anywhere in the world.
 
@@ -42,7 +42,7 @@ IF YOU DO NOT ACCEPT THE TERMS OF THIS LICENSE AGREEMENT, YOU ARE PROHIBITED FRO
 
 **3. License**
 
-Subject to the terms and conditions of this License, Licensor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, right to reproduce, prepare Derivative Works of, sublicence, make, have made, use, import the Data Product and the Derivative Works as required for the Purpose and subject to the terms and conditions as described in the Date Products.
+Subject to the terms and conditions of this License, Licensor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, right to reproduce, prepare Derivative Works of, sublicence, make, have made, use, import the Data Product and the Derivative Works as required for the Purpose and subject to the terms and conditions as described in the Data Products.
 
 Except as otherwise agreed by Licensor in writing in separate license terms and conditions for the use of THEOplayer, You shall not distribute, relicense, sell, lease, transfer, encumber, assign or make available for public use the Data Products. Any attempt to take any such actions is void and will automatically terminate Your rights under this License.
 
